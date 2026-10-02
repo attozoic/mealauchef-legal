@@ -1,0 +1,12 @@
+title: Meal au Chef — Legal
+description: Privacy Policy and Terms of Service for the Meal au Chef mobile app.
+theme: jekyll-theme-cayman
+show_downloads: false
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - privacy-policy.md
+  - terms-of-service.md
